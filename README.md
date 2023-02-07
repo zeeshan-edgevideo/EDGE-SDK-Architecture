@@ -1,0 +1,1 @@
+# EDGE-SDK-Architecture
