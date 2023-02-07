@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T07:01:57.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fVbkbhemUt3tw8PPpeZg" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T07:09:26.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lu0GC7QddF1xEXzTWncF" version="20.8.17" type="github">
   <diagram name="Version 1" id="uJ5T49X4l4e8T_G_bcFu">
     <mxGraphModel dx="2220" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,11 +7,14 @@
         <mxCell id="RxoBQDrdCHjQokq0wDvw-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;EDGE-SDK&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="460" y="40" width="1210" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="RxoBQDrdCHjQokq0wDvw-1" value="EdgeSdkExecutor.java" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="530" y="120" width="280" height="880" as="geometry" />
+        <mxCell id="RxoBQDrdCHjQokq0wDvw-1" value="EdgeSdkExecutor.java&lt;br&gt;This class will be having method to get access and control over rest of funtionality" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="60" width="280" height="630" as="geometry" />
         </mxCell>
         <mxCell id="RxoBQDrdCHjQokq0wDvw-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;User Application&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="390" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="RxoBQDrdCHjQokq0wDvw-10" value="Utils.java&lt;br&gt;This class will be having common methods can used in user application for further processing the results generated/fetched by sdk. Along with this, this class will have commonly used methods in sdk itself aswell." style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="720" width="280" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
