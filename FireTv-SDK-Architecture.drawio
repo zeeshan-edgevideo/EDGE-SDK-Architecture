@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T12:53:26.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="genwh3fqzqfSEjXb2HCX" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T12:55:46.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OjyDI6a1ctXuG_IAoDmH" version="20.8.20" type="github">
   <diagram name="Version 1" id="uJ5T49X4l4e8T_G_bcFu">
-    <mxGraphModel dx="1744" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3053" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           <mxGeometry x="1750" y="210" width="250" height="490" as="geometry" />
         </mxCell>
         <mxCell id="_qBjDN-BlNfUkDZtKEAN-3" value="StakingBackEndConnector.java" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="330" width="200" height="370" as="geometry" />
+          <mxGeometry x="1210" y="330" width="230" height="370" as="geometry" />
         </mxCell>
         <mxCell id="_qBjDN-BlNfUkDZtKEAN-4" value="QRCodeSocketHandler.java" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="270" width="200" height="430" as="geometry" />
+          <mxGeometry x="1480" y="270" width="240" height="430" as="geometry" />
         </mxCell>
         <mxCell id="_qBjDN-BlNfUkDZtKEAN-8" value="Data fetcher and senders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="210" width="150" height="30" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="2110" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qBjDN-BlNfUkDZtKEAN-32" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Segoe UI&#39;;font-size:9.0pt;&quot;&gt;EatPriceCalculator.java&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="390" width="200" height="310" as="geometry" />
+          <mxGeometry x="990" y="390" width="200" height="310" as="geometry" />
         </mxCell>
         <mxCell id="_qBjDN-BlNfUkDZtKEAN-33" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Segoe UI&#39;;font-size:9.0pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 9pt;&quot;&gt;LastSessionWithStakingServerDataHolder&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2840" y="180" width="240" height="130" as="geometry" />
